@@ -10,3 +10,5 @@
 | [Donational](https://donational.org/) | 1% of income |
 
 Also see: https://github.com/nayafia/microgrants/blob/master/LICENSE.md
+
+Join the Telegram here: https://t.me/selftax
