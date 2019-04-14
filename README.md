@@ -8,6 +8,7 @@
 | [Awesome Foundation](https://www.awesomefoundation.org/) | $100/month | 9500 members (95 chapters x 10) | $3.8m in donations|
 | [Resource Generation](https://resourcegeneration.org/giving-guidelines/) | 10% of income | 70 members |
 | [Donational](https://donational.org/) | 1% of income |
+| [GoFundMe](https://www.gofundme.com/) |
 
 Also see: https://github.com/nayafia/microgrants/blob/master/LICENSE.md
 
