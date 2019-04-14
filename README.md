@@ -1,6 +1,4 @@
-# self-tax-organizations
-
-Effective Altruism
+# Self-tax Organizations
 
 |Organization|Self-Tax System|# of members|Total donations|Total Pledged|
 |---|---|---|---|---|
@@ -9,6 +7,6 @@ Effective Altruism
 | [Founders Pledge](https://founderspledge.com/) | 5% of exit | 1400 members | $91m in donations | $708m pledged |
 | [Awesome Foundation](https://www.awesomefoundation.org/) | $100/month | 9500 members (95 chapters x 10) | $3.8m in donations|
 | [Resource Generation](https://resourcegeneration.org/giving-guidelines/) | 10% of income | 70 members |
-[ [Donational](https://donational.org/) | 1% of income |
+| [Donational](https://donational.org/) | 1% of income |
 
-- https://github.com/nayafia/microgrants/blob/master/LICENSE.md
+Also see: https://github.com/nayafia/microgrants/blob/master/LICENSE.md
