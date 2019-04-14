@@ -1,6 +1,7 @@
 # self-tax-organizations
 
 Effective Altruism
+
 |Organization|Self-Tax System|# of members|Total donations|Total Pledged|
 |---|---|---|---|---|
 | [The Life You Can Save](https://www.thelifeyoucansave.org/take-the-pledge) | 1% of income | 19,633 members |
