@@ -9,6 +9,9 @@
 | [Resource Generation](https://resourcegeneration.org/giving-guidelines/) | 10% of income | 70 members |
 | [Donational](https://donational.org/) | 1% of income |
 | [GoFundMe](https://www.gofundme.com/) |
+| [GoodToday] (https://goodtoday.org/) | $0.25/day
+| [Sparrow] (https://www.sparrowgiving.com/) | IFTTT for donations
+| [SmileAlways] (https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf?hl=en) | Chrome Extension for Amazon Smile
 
 Also see: https://github.com/nayafia/microgrants/blob/master/LICENSE.md
 
