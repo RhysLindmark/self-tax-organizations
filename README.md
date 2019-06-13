@@ -12,6 +12,7 @@
 | [GoodToday](https://www.goodtoday.org/) | $0.25/day
 | [Sparrow](https://www.sparrowgiving.com/) | IFTTT for donations
 | [SmileAlways](https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf?hl=en) | Chrome Extension for Amazon Smile
+| [One For the World](https://www.1fortheworld.org/) |
 
 Also see: https://github.com/nayafia/microgrants/blob/master/LICENSE.md
 
