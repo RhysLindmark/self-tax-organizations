@@ -13,6 +13,7 @@
 | [Sparrow](https://www.sparrowgiving.com/) | IFTTT for donations
 | [SmileAlways](https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf?hl=en) | Chrome Extension for Amazon Smile
 | [One For the World](https://www.1fortheworld.org/) |
+| [Zest Impact](http://www.zestimpact.com/) and [Generation Pledge](https://www.generationpledge.org/) |
 
 Also see: https://github.com/nayafia/microgrants/blob/master/LICENSE.md
 
