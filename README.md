@@ -14,6 +14,9 @@
 | [SmileAlways](https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf?hl=en) | Chrome Extension for Amazon Smile
 | [One For the World](https://www.1fortheworld.org/) |
 | [Zest Impact](http://www.zestimpact.com/) and [Generation Pledge](https://www.generationpledge.org/) |
+| [Hi-Impact Atheletes](https://highimpactathletes.org/) |
+| [Hi-Impact Professionals](https://forum.effectivealtruism.org/posts/M2KrWyG2X8iQaHGJv/introducing-high-impact-professionals) |
+
 
 Also see: https://github.com/nayafia/microgrants/blob/master/LICENSE.md
 
